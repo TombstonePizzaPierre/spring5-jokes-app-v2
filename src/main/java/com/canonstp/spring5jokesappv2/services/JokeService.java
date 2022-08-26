@@ -1,6 +1,6 @@
 package com.canonstp.spring5jokesappv2.services;
 
-public interface JokesService {
+public interface JokeService {
 
     String getJoke();
 }
